@@ -1,3 +1,9 @@
+linux-latest-ev3dev-rpi2 (2) stable; urgency=medium
+
+  * Update to kernel 4.1.7-7-ev3dev-rpi2
+
+ -- David Lechner <david@lechnology.com>  Mon, 14 Sep 2015 22:14:29 -0500
+
 linux-latest-ev3dev-rpi2 (1) stable; urgency=low
 
   * Initial Release.
