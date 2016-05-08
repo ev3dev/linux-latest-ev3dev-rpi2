@@ -1,3 +1,9 @@
+linux-latest-ev3dev-rpi2 (6) stable; urgency=medium
+
+  * Update to kernel 4.4.9-11-ev3dev-rpi2
+
+ -- David Lechner <david@lechnology.com>  Sun, 08 May 2016 14:42:29 -0500
+
 linux-latest-ev3dev-rpi2 (5) stable; urgency=medium
 
   * Update to kernel 4.1.21-10-ev3dev-rpi2
