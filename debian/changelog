@@ -1,3 +1,10 @@
+linux-latest-ev3dev-rpi2 (15) testing; urgency=medium
+
+  * Target stretch
+  * Kernel 4.9.17-ev3dev-1.0.1-rpi2
+
+ -- David Lechner <david@lechnology.com>  Tue, 28 Mar 2017 16:21:59 -0500
+
 linux-latest-ev3dev-rpi2 (14) stable; urgency=medium
 
   * Kernel 4.4.47-19-ev3dev-rpi2
