@@ -9,15 +9,15 @@ Vcs-Browser: https://github.com/ev3dev/linux-latest-ev3dev-rpi2
 
 Package: linux-image-ev3dev-rpi2
 Architecture: armhf
-Provides: linux-modules-4.14.48-ev3dev-2.0.2-rpi2
-Depends: ${misc:Depends}, linux-image-4.14.48-ev3dev-2.0.2-rpi2
+Provides: linux-modules-4.14.52-ev3dev-2.1.0-rpi2
+Depends: ${misc:Depends}, linux-image-4.14.52-ev3dev-2.1.0-rpi2
 Description: Linux kernel for ev3dev on Raspberry Pi (metapackage)
  This package depends on the latest Linux kernel and modules from the ev3dev
  project for use on Raspberry Pi.
 
 Package: linux-headers-ev3dev-rpi2
 Architecture: armhf
-Depends: ${misc:Depends}, linux-headers-4.14.48-ev3dev-2.0.2-rpi2
+Depends: ${misc:Depends}, linux-headers-4.14.52-ev3dev-2.1.0-rpi2
 Description: Header files for Linux rpi2-ev3dev configuration (metapackage)
  This package depends on the latest headers for the latest Linux kernel and
  modules from the ev3dev project for use on Raspberry Pi.
