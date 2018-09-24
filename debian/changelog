@@ -1,3 +1,9 @@
+linux-latest-ev3dev-rpi2 (31) stable; urgency=medium
+
+  * Kernel 4.14.71-ev3dev-2.3.0-rpi2
+
+ -- David Lechner <david@lechnology.com>  Sun, 23 Sep 2018 19:19:13 -0500
+
 linux-latest-ev3dev-rpi2 (30) stable; urgency=medium
 
   * Kernel 4.14.59-ev3dev-2.2.2-rpi2
