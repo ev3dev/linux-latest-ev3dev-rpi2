@@ -1,3 +1,10 @@
+linux-latest-ev3dev-rpi2 (34) testing; urgency=medium
+
+  * Target buster
+  * Kernel 4.19.23-ev3dev-3-beta1-rpi2
+
+ -- David Lechner <david@lechnology.com>  Sat, 23 Feb 2019 23:03:43 -0600
+
 linux-latest-ev3dev-rpi2 (33) stable; urgency=medium
 
   * Kernel 4.14.94-ev3dev-2.3.2-rpi2
