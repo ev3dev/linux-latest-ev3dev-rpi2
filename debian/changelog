@@ -1,3 +1,10 @@
+linux-latest-ev3dev-rpi2 (35) buster; urgency=medium
+
+  * update debhelper version for buster
+  * Kernel 4.19.85-ev3dev-3-beta2-rpi2
+
+ -- David Lechner <david@lechnology.com>  Sun, 24 Nov 2019 17:46:29 -0600
+
 linux-latest-ev3dev-rpi2 (34) testing; urgency=medium
 
   * Target buster
