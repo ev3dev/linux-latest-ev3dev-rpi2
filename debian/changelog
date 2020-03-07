@@ -1,3 +1,9 @@
+linux-latest-ev3dev-rpi2 (33.3) stretch; urgency=medium
+
+  * Kernel 4.14.114-ev3dev-2.3.5-rpi2
+
+ -- David Lechner <david@lechnology.com>  Sat, 07 Mar 2020 14:28:12 -0600
+
 linux-latest-ev3dev-rpi2 (33.2) stable; urgency=medium
 
   * Kernel 4.14.114-ev3dev-2.3.4-rpi2
